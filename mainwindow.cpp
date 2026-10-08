@@ -108,8 +108,8 @@ void MainWindow::applyStyleSheet()
         }
 
         QPushButton[role="equals"] {
-            background: #2f7de1;
-            border-color: #2f7de1;
+            background: #e8590c;
+            border-color: #e8590c;
             color: #ffffff;
             font-size: 22px;
             font-weight: 700;
